@@ -1,1 +1,1 @@
-# Similar-lines
+# Individual Programming Exercise 1
